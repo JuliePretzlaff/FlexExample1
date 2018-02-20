@@ -1,0 +1,12 @@
+﻿.gallery{
+    display: flex;
+    min-height: 100vh;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.image{
+    min-height: 20vh;
+    max-height: 200px;
+    margin: 8px;
+}
